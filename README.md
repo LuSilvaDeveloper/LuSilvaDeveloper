@@ -1,16 +1,20 @@
-# Hi, I'm Lucas 👋
-**Software Engineer (Backend • AI Integrations • C#/.NET)**
+## Hi, I'm Lucas 👋  
+**Software Engineer | Backend | AI Integrations | 
 
-🚀 I build scalable backend systems and intelligent tools using modern technologies.
+I design and build **scalable, maintainable backend systems** and **AI-powered services**, with a strong focus on clean architecture, reliability, and performance.
 
-**Tech Stack:**  
-TypeScript • Node.js • Python • C#/.NET • REST • RAG • LangChain • SQL • Redis
+### Tech Stack
+**Languages & Platforms:**  
+TypeScript, Node.js, Python, C#/.NET  
 
-### 🔭 What I’m Working On
-- Expressots backend framework (plugins & caching)
-- AI chatbot with LangChain & RAG
-- Strengthening C#/.NET backend expertise
+**Backend & Architecture:**  
+RESTful APIs, event-driven architectures, caching, SQL-based data solutions  
 
-📫 Let’s connect:  
-LinkedIn • Email
+**AI & Integrations:**  
+Retrieval-Augmented Generation (RAG), LangChain, LLM integrations  
 
+**Databases & Infrastructure:**  
+PostgreSQL, Redis  
+
+📫 **Let’s connect:**  
+[LinkedIn](https://www.linkedin.com/in/lucas-assuncao-silva) • [Email](lucas.silva@expresso-ts.com)

@@ -17,4 +17,5 @@ Retrieval-Augmented Generation (RAG), LangChain, LLM integrations
 PostgreSQL, Redis  
 
 📫 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/lucas-assuncao-silva) • [Email](lucas.silva@expresso-ts.com)
+[LinkedIn](https://www.linkedin.com/in/lucas-assuncao-silva) • [Email](mailto:lucas.silva@expresso-ts.com?subject=GitHub%20Contact)
+

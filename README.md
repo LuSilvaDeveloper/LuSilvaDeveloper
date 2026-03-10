@@ -5,7 +5,7 @@ I design and build **scalable, maintainable backend systems** and **AI-powered s
 
 ### Tech Stack
 **Languages & Platforms:**  
-TypeScript, Node.js, Python, C#/.NET  
+TypeScript, Node.js, Python
 
 **Backend & Architecture:**  
 RESTful APIs, event-driven architectures, caching, SQL-based data solutions  
